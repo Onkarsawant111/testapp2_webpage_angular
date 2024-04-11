@@ -1,0 +1,45 @@
+h3 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 2rem;
+}
+
+.box1 {
+    height: 250px;
+    width: 33%;
+    border: rebeccapurple 2px solid;
+    float: left;
+    text-align: center;
+}
+
+.box2 {
+    height: 250px;
+    width: 33%;
+    border: rebeccapurple 2px solid;
+    float: left;
+    text-align: center;
+}
+.para{
+    display: inline-block;
+    background: url("download.jpeg");
+    background-size: 100px;
+    background-repeat: no-repeat;
+    height: 100px;
+    width: 100px;
+}
+.box3 {
+    height: 250px;
+    width: 33%;
+    border: rebeccapurple 2px solid;
+    float: left;
+    text-align: center; 
+}
+h4{
+    color: purple;
+}
+.a{
+    color: brown;
+}
+.b{
+    color: red;
+}

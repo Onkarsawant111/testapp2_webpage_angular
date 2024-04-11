@@ -1,0 +1,43 @@
+body,html{
+    width: 100%;
+    height: 100%;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.container1{
+    width: 100%;
+}
+.head{
+    color: orangered;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 600;
+}
+.container2{
+    width: 100%;
+    display: flex;
+    border: 1px solid black;
+}
+.box1{
+    width: 33%;
+    text-align: center;
+}
+.box2{
+    width: 33%;
+    text-align: center;
+}
+.box3{
+    width: 33%;
+    text-align: center;
+}
+.container3{
+    width: 100%;
+    border: 1px solid red;
+}
+h3{
+    color: rgb(54, 88, 2);
+    text-align: center;
+    text-decoration: underline;
+}
